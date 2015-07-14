@@ -54,9 +54,8 @@
           sudo apt-get remove lightdm
 
 PART-2
-After completing all the setup go inside the nugpgpu-mackerel directory and
-run make. This will create the device headers and build a module nugpgpu.ko
-inside the same directory.
+After completing all the setup go inside the nugpgpu directory and
+run make. This will build a module nugpgpu.ko inside the same directory.
 
 Install the module with the command "sudo insmod nugpgpu.ko".
 
