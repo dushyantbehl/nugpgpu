@@ -1,6 +1,8 @@
 New GPGPU Driver for Intel Haswell Chipsets.
 Based on i915 driver for Intel GPU's.
 
+SETUP - Mentions the steps to execute nugpgpu
+
 Copyright - 
 Dushyant Behl <cs5100282@cse.iitd.ernet.in>
 Utkarsh <cs5100299@cse.iitd.ernet.in>
